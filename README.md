@@ -6,3 +6,5 @@ Repository used for initial practice of coding questions encountered in intervie
 Adding a change to this file to practice submitting changes.
 
 This is a change made via the GitHub web site
+
+I made this change outside of visual studio using Notepad++
